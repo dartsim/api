@@ -2,6 +2,8 @@
 
 ### DART 6
 
+* [v6.3.0](https://dartsim.github.io/api/v6.3.0/index.html)
+* [v6.2.1](https://dartsim.github.io/api/v6.2.1/index.html), [v6.2.0](https://dartsim.github.io/api/v6.2.0/index.html)
 * [v6.1.1](https://dartsim.github.io/api/v6.1.1/index.html)
 
 ### DART 5
